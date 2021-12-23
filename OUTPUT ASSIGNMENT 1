@@ -1,0 +1,46 @@
+==========================================================================================================
+                                WELCOME TO LAZAT SEGERA RESTAURANT!                                            
+==========================================================================================================
+Do you want to know your profit amount today?
+You need to enter all the details below.
+
+Username : 
+Azurin
+Day : 
+Khamis
+Date: 
+16/12/2021
+Number of available fast food : 
+3
+Number of available beverage : 
+2
+Available fast food and beverage: 
+Burger,FriedChicken,Fries,ChocolateSmoothies,CoffeeIce
+Enter total price for ingredient needed(capital) : RM 
+234.50
+Enter total selling price : RM 
+567.90
+Your gross profit for today is RM333.40
+Enter total employee's salary : RM
+250
+Enter store rental costs : RM
+10.30
+Enter electric bill price : RM
+5.30
+Enter water bill price : RM
+4.50
+Total bill price : RM9.80 
+Your hidden costs is RM270.10
+Your net profit for today is RM63.30 
+Summary<3
+
+Username : Azurin
+Day : Khamis
+Date: 16/12/2021
+Number of available fast food : 3
+Number of available beverage : 2
+Available fast food and beverage: Burger,FriedChicken,Fries,ChocolateSmoothies,CoffeeIce
+Total price for ingredient needed(capital) : RM 234.5
+Total sale price : RM 567.9
+Gross profit for today is RM333.40
+Net profit for today is RM63.30 
