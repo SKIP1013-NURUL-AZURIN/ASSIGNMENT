@@ -44,3 +44,50 @@ Total price for ingredient needed(capital) : RM 234.5
 Total sale price : RM 567.9
 Gross profit for today is RM333.40
 Net profit for today is RM63.30 
+
+==========================================================================================================
+                                WELCOME TO LAZAT SEGERA RESTAURANT!                                            
+==========================================================================================================
+Do you want to know your profit amount today?
+You need to enter all the details below.
+
+Username : 
+Azurin
+Day : 
+Khamis
+Date: 
+16/12/2021
+Number of available fast food : 
+2
+Number of available beverage : 
+2
+Available fast food and beverage: 
+Burger,Nuggets,Chocolate,Coffee
+Enter total price for ingredient needed(capital) : RM 
+350.60
+Enter total selling price : RM 
+345.70
+Your gross profit for today is RM-4.90
+Enter total employee's salary : RM
+250
+Enter store rental costs : RM
+9.50
+Enter electric bill price : RM
+4.6
+Enter water bill price : RM
+2.3
+Total bill price : RM6.90 
+Your hidden costs is RM266.40
+Your net profit for today is RM-271.30 
+Summary<3
+
+Username : Azurin
+Day : Khamis
+Date: 16/12/2021
+Number of available fast food : 2
+Number of available beverage : 2
+Available fast food and beverage: Burger,Nuggets,Chocolate,Coffee
+Total price for ingredient needed(capital) : RM 350.6
+Total sale price : RM 345.7
+Gross profit for today is RM-4.90
+Net profit for today is RM-271.30 
