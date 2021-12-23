@@ -1,0 +1,84 @@
+package project;
+import java.util.Scanner;
+public class FastFood {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Scanner sc = new Scanner(System.in);
+		 String username;
+		 String day,date;
+		 int foodType, beverageType;
+		 String foodPrepared;
+		 double capital,salePrice,grossProfit,salary,bill1,bill2,totalBillPrice,rentalCosts,hiddenCosts,netProfits;
+		 
+		 System.out.println("==========================================================================================================");
+		 System.out.println("                                WELCOME TO LAZAT SEGERA RESTAURANT!                                            ");
+		 System.out.println("==========================================================================================================");
+		 System.out.println("Do you want to know your profit amount today?");
+		 System.out.println("You need to enter all the details below.");
+		 System.out.println();
+		//user need to enter their name, day and date 
+		System.out.println("Username : ");
+		username = sc.nextLine();
+		System.out.println("Day : ");
+		day = sc.nextLine();
+		System.out.println("Date: ");
+		date = sc.nextLine();
+		//user need to enter how much the available fast food and beverage for that day 
+		System.out.println("Number of available fast food : ");
+		foodType = sc.nextInt();
+		System.out.println("Number of available beverage : ");
+		beverageType = sc.nextInt();
+		//user list the fast foods and beverages
+		System.out.println("Available fast food and beverage: ");
+		foodPrepared = sc.next();
+		//the user enters the total price of the ingredients purchased for cooking and making the drinks. This is also called as capital. 
+		System.out.println("Enter total price for ingredient needed(capital) : RM ");
+		capital=sc.nextDouble();
+		//the user enters the total sales price earned on that day.
+		System.out.println("Enter total selling price : RM ");
+		salePrice=sc.nextDouble();
+		//calculate the gross profit 
+		grossProfit = salePrice - capital;
+		System.out.printf("Your gross profit for today is RM%.2f" , grossProfit);
+		//calculate the hidden costs
+		System.out.println("\nEnter total employee's salary : RM");
+		salary=sc.nextDouble();
+		
+		System.out.println("Enter store rental costs : RM");
+		rentalCosts=sc.nextDouble();
+		
+		System.out.println("Enter electric bill price : RM");
+		bill1=sc.nextDouble();
+
+		System.out.println("Enter water bill price : RM");
+		bill2=sc.nextDouble();
+		
+		totalBillPrice = bill1 + bill2;
+		System.out.printf("Total bill price : RM%.2f " , totalBillPrice);
+		
+		hiddenCosts = salary + rentalCosts +  totalBillPrice;
+		System.out.printf("\nYour hidden costs is RM%.2f" , hiddenCosts);
+		
+		//calculate the net profit
+		netProfits = grossProfit - hiddenCosts;
+		System.out.printf("\nYour net profit for today is RM%.2f " , netProfits);
+		
+		System.out.println();
+		System.out.println("Summary<3");
+		
+		System.out.println("\nUsername : " + username);
+		System.out.println("Day : " + day);
+		System.out.println("Date: " + date);
+		System.out.println("Number of available fast food : " + foodType);
+		System.out.println("Number of available beverage : " + beverageType);
+		System.out.println("Available fast food and beverage: " + foodPrepared );
+		System.out.println("Total price for ingredient needed(capital) : RM " + capital);
+		System.out.println("Total sale price : RM " + salePrice);
+		System.out.printf("Gross profit for today is RM%.2f" , grossProfit);
+		System.out.printf("\nNet profit for today is RM%.2f " , netProfits);
+		
+
+	}
+
+}
