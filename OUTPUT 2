@@ -1,0 +1,26 @@
+==========================================================================================================
+                                WELCOME TO LAZAT SEGERA RESTAURANT!                                            
+==========================================================================================================
+
+You have to choose to check daily profits(1) or customers booking(2).
+Enter the system that you want to use : 2
+
+Do you have booking from customers?
+You need to enter all the customer's details and customer orders below.
+
+Enter customer's name : AZU
+Enter date of booking : 12/12/21
+Enter booked date : 12/2/22
+Enter booked day : SATURDAY
+Enter booked time : 8.30P.M.
+Enter number of food package : 1
+
+FAMILY PACKAGE<3 (meals for 8 people)
+15% OFF FOR FAMILY PACKAGE!!
+Enter number of set            : 2
+Normal price                   : RM160.50
+New price for FAMILY PACKAGE   : RM136.43 
+Total price                    : RM272.85
+Delivery(1) or Dine-in(2)      : 2
+
+A table that has 8 seats will be provided.
