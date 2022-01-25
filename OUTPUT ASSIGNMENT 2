@@ -24,3 +24,27 @@ Total price                    : RM272.85
 Delivery(1) or Dine-in(2)      : 2
 
 A table that has 8 seats will be provided.
+
+
+
+
+
+==========================================================================================================
+                                WELCOME TO LAZAT SEGERA RESTAURANT!                                            
+==========================================================================================================
+
+You have to choose to check daily profits(1) or customers booking(2).
+Enter the system that you want to use : 2
+
+Do you have booking from customers?
+You need to enter all the customer's details and customer orders below.
+
+Enter customer's name : HUSAINI
+Enter date of booking : 19/1/2022
+Enter booked date : 21/7/2022
+Enter booked day : THURSDAY
+Enter booked time : 9.00P.M
+Enter number of food package : 6
+
+Package is not available.Please choose another package.
+Invalid package.
