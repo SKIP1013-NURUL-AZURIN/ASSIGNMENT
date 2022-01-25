@@ -2,7 +2,7 @@
                                 WELCOME TO LAZAT SEGERA RESTAURANT!                                            
 ==========================================================================================================
 
-You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
 Enter the system that you want to use : 1
 
 ------------ DAILY PROFIT CALCULATION SYSTEM------------
@@ -10,36 +10,36 @@ Enter the system that you want to use : 1
 Do you want to know your profit amount today?
 You need to enter all the details below.
 
-Username : cika
-Day : selasa
-Date: 25/1/22
+Username : AZU
+Day : SATURDAY
+Date: 29/1/22
 Number of available fast food : 3
 Number of available beverage : 2
-Available fast food and beverage: fc,bgr,prr,choco,coffee
-Enter total price for ingredient needed(capital) : RM790
-Enter total selling price : RM1760
-Your gross profit for today is RM970.00
-Enter total employee's salary : RM400
-Enter store rental costs : RM11
-Enter electric bill price : RM8
-Enter water bill price : RM5
-Total bill price : RM13.00 
-Your hidden costs is RM424.00
-Your net profit for today is RM546.00 
+Available fast food and beverage: FRIEDCHICKEN,BURGER,WEDGES,MILOICED,JUICE
+Enter total price for ingredient needed(capital) : RM670.45
+Enter total selling price : RM1258.65
+Your gross profit for today is RM588.20
+Enter total employee's salary : RM300
+Enter store rental costs : RM10.95
+Enter electric bill price : RM5.30
+Enter water bill price : RM4.99
+Total bill price : RM10.29 
+Your hidden costs is RM321.24
+Your net profit for today is RM266.96 
 Summary<3
 
-Username : cika
-Day : selasa
-Date: 25/1/22
+Username : AZU
+Day : SATURDAY
+Date: 29/1/22
 Number of available fast food : 3
 Number of available beverage : 2
-Available fast food and beverage: fc,bgr,prr,choco,coffee
-Total price for ingredient needed(capital) : RM 790.0
-Total sale price : RM 1760.0
-Gross profit for today is RM970.00
-Net profit for today is RM546.00 
+Available fast food and beverage: FRIEDCHICKEN,BURGER,WEDGES,MILOICED,JUICE
+Total price for ingredient needed(capital) : RM 670.45
+Total sale price : RM 1258.65
+Gross profit for today is RM588.20
+Net profit for today is RM266.96 
 
-You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
 Enter the system that you want to use : 2
 
 ------------ CUSTOMER'S ORDER SYSTEM------------
@@ -47,35 +47,35 @@ Enter the system that you want to use : 2
 Do you have booking from customers?
 You need to enter all the customer's details and customer orders below.
 
-Enter customer's name : azu
-Enter date of booking : 12/1/22
-Enter booked date : 12/2/22
-Enter booked day : sabtu
-Enter booked time : 12.30
+Enter customer's name : NURUL
+Enter date of booking : 1/1/22
+Enter booked date : 19/1/22
+Enter booked day : WEDNESDAY
+Enter booked time : 8.30P.M.
 Enter number of food package : 3
 
 COUPLE PACKAGE<3 (meals for 2 people)
 5% OFF FOR COUPLE PACKAGE!!
-Enter number of set           : 1
-Normal Price                  : RM56.70
-New price for COUPLE PACKAGE  : RM53.87 
-Total price                   : RM53.87
+Enter number of set           : 2
+Normal Price                  : RM55.50
+New price for COUPLE PACKAGE  : RM52.73 
+Total price                   : RM105.45
 Delivery(1) or Dine-in(2)     : 2
 
 A table that has 2 seats will be provided.
 Customer's special request :
-BirthdayCelebration
+BIRTHDAY_CELEBRATION_DECO
 
-You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
 Enter the system that you want to use : 3
 
 ------------ ALA CARTE SYSTEM------------
 
-Enter customer's name : husai
-Enter date of booking : 25/1/22
-Enter booked date : 25/1/22
-Enter booked day : selasa
-Enter booked time : 9.54
+Enter customer's name : AZURIN
+Enter date of booking : 12/2/22
+Enter booked date : 12/2/22
+Enter booked day : SATURDAY
+Enter booked time : 12.30.P.M.
 
 MENU
 1. CHICKEN(1PC) : RM5.99
@@ -105,9 +105,9 @@ TOTAL PRICE  : RM25.40
 Delivery(1) or Dine-in(2)      : 1
 We will deliver customer's order 15 minutes early.
 Customer's special request :
-LeaveTheFoodInTheBasket
+EXTRA_SAUCE
 
-You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+You have to choose to check daily profits(1) , customers booking(2) , ala carte(3) and End System(4).
 Enter the system that you want to use : 4
 
 -----The end. Thank you for your service today. See you tomorrow <3-----
