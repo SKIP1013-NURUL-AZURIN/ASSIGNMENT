@@ -24,7 +24,7 @@ public class FastFoodRestaurantOwner {
 		System.out.println("==========================================================================================================");
 		
 		do {
-		System.out.println("\nYou have to choose to check daily profits(1) , customers booking(2) or ala carte(3).");
+		System.out.println("\nYou have to choose to check daily profits(1) , customers booking(2) , ala carte(3) or end system(4).");
 		System.out.print("Enter the system that you want to use : ");
 		system = sc.nextInt();
 		
