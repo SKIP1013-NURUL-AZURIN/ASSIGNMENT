@@ -241,6 +241,7 @@ public class FastFoodRestaurantOwner {
 
 		}
 		
+		
 		else if(system==3) {
 			//this is the Ala carte system which customers can customize their order
 			System.out.println("\n------------ ALA CARTE SYSTEM------------");
@@ -257,9 +258,9 @@ public class FastFoodRestaurantOwner {
 			
 			String [] food = {"CHICKEN(1PC)", "CLASSIC BURGER","CHEZZY BURGER","CHEZZY WEDGES", 
 					          "LOADED POTATO BOWL","WHIPPED POTATO","NUGGETS(9PC)","COLESLAW", 
-					          "NASI LEMAK", "POPCORN CHICKEN", "ICED MILO", "PEPSI BLACK", 
+					          "NASI LEMAK","CHOCOLATE BANANA CAKE","RED VELVET CAKE", "POPCORN CHICKEN", "ICED MILO", "PEPSI BLACK", 
 					          "ICED LEMON TEA", "SJORA MANGO PEACH","TROPICANA TWISTER", "NESTLE LEMONADE" };
-			double [] price = {5.99, 11.99, 12.70, 6.99, 7.49, 7.99, 13.99, 7.99, 3.99, 10.99, 5.99, 4.70, 5.99, 5.99, 5.99, 5.99};
+			double [] price = {5.99, 11.99, 12.70, 6.99, 7.49, 7.99, 13.99, 7.99, 3.99,7.99,8.99, 10.99, 5.99, 4.70, 5.99, 5.99, 5.99, 5.99};
 			
 			//return 2 data (food and price)
 			int choice[] =showMenu (food,price);
@@ -317,4 +318,5 @@ public class FastFoodRestaurantOwner {
 		
 			
 	}
+		
 }
