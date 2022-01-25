@@ -1,0 +1,111 @@
+==========================================================================================================
+                                WELCOME TO LAZAT SEGERA RESTAURANT!                                            
+==========================================================================================================
+
+You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+Enter the system that you want to use : 1
+
+------------ DAILY PROFIT CALCULATION SYSTEM------------
+
+Do you want to know your profit amount today?
+You need to enter all the details below.
+
+Username : cika
+Day : selasa
+Date: 25/1/22
+Number of available fast food : 3
+Number of available beverage : 2
+Available fast food and beverage: fc,bgr,prr,choco,coffee
+Enter total price for ingredient needed(capital) : RM790
+Enter total selling price : RM1760
+Your gross profit for today is RM970.00
+Enter total employee's salary : RM400
+Enter store rental costs : RM11
+Enter electric bill price : RM8
+Enter water bill price : RM5
+Total bill price : RM13.00 
+Your hidden costs is RM424.00
+Your net profit for today is RM546.00 
+Summary<3
+
+Username : cika
+Day : selasa
+Date: 25/1/22
+Number of available fast food : 3
+Number of available beverage : 2
+Available fast food and beverage: fc,bgr,prr,choco,coffee
+Total price for ingredient needed(capital) : RM 790.0
+Total sale price : RM 1760.0
+Gross profit for today is RM970.00
+Net profit for today is RM546.00 
+
+You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+Enter the system that you want to use : 2
+
+------------ CUSTOMER'S ORDER SYSTEM------------
+
+Do you have booking from customers?
+You need to enter all the customer's details and customer orders below.
+
+Enter customer's name : azu
+Enter date of booking : 12/1/22
+Enter booked date : 12/2/22
+Enter booked day : sabtu
+Enter booked time : 12.30
+Enter number of food package : 3
+
+COUPLE PACKAGE<3 (meals for 2 people)
+5% OFF FOR COUPLE PACKAGE!!
+Enter number of set           : 1
+Normal Price                  : RM56.70
+New price for COUPLE PACKAGE  : RM53.87 
+Total price                   : RM53.87
+Delivery(1) or Dine-in(2)     : 2
+
+A table that has 2 seats will be provided.
+Customer's special request :
+BirthdayCelebration
+
+You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+Enter the system that you want to use : 3
+
+------------ ALA CARTE SYSTEM------------
+
+Enter customer's name : husai
+Enter date of booking : 25/1/22
+Enter booked date : 25/1/22
+Enter booked day : selasa
+Enter booked time : 9.54
+
+MENU
+1. CHICKEN(1PC) : RM5.99
+2. CLASSIC BURGER : RM11.99
+3. CHEZZY BURGER : RM12.7
+4. CHEZZY WEDGES : RM6.99
+5. LOADED POTATO BOWL : RM7.49
+6. WHIPPED POTATO : RM7.99
+7. NUGGETS(9PC) : RM13.99
+8. COLESLAW : RM7.99
+9. NASI LEMAK : RM3.99
+10. POPCORN CHICKEN : RM10.99
+11. ICED MILO : RM5.99
+12. PEPSI BLACK : RM4.7
+13. ICED LEMON TEA : RM5.99
+14. SJORA MANGO PEACH : RM5.99
+15. TROPICANA TWISTER : RM5.99
+16. NESTLE LEMONADE : RM5.99
+
+Customer's choice : 3
+Quantity : 2
+FOOD ORDERED : CHEZZY BURGER
+TOTAL PRICE  : RM25.40 
+
+Delivery(1) or Dine-in(2)      : 1
+We will deliver customer's order 15 minutes early.
+Customer's special request :
+LeaveTheFoodInTheBasket
+
+You have to choose to check daily profits(1) , customers booking(2) or ala carte(3).
+Enter the system that you want to use : 4
+
+-----The end. Thank you for your service today. See you tomorrow <3-----
